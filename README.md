@@ -13,7 +13,7 @@ Vue js | Vuetify | JQuery | Bootstrap | Bootstrap
 Database (MYSQL), MongoDb
 
 Knowledge of:
-POO | C# .net | JAVA | Python | Asterisk | Linux | Genexus | Firebase | Firebase
+POO | C# .net | JAVA | Python | Asterisk | Linux | Genexus | Firebase
 
 
 <!---
