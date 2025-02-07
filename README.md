@@ -1,62 +1,72 @@
-# 👋 Hola, soy Enzo Pelizzari
+<h1 align="center">🚀 Enzo Pelizzari | Desarrollador Web</h1>
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador con experiencia en la creación de aplicaciones web modernas, siempre buscando aprender y crecer en el mundo de la tecnología. Aquí encontrarás mis proyectos y colaboraciones, donde combino creatividad y funcionalidad para resolver problemas.
-
----
-
-## 🛠️ Tecnologías en las que tengo experiencia
-### **Con mayor experiencia:**
-- **Frontend:**
-  - JavaScript, Vue.js, Vuetify
-- **Backend:**
-  - Node.js
-  - MySQL
-
-### **Con experiencia básica:**
-- Java
-- Supabase
-- Firebase
-
-### **Explorando y aprendiendo:**
-- React, Next.js
-- Nuxt 3
-- Tailwind CSS
-
-### **Cloud Computing:**
-- Experiencia con Amazon Web Services (AWS)
+<p align="center">
+  <b>Apasionado por el desarrollo de aplicaciones modernas, escalables y con una gran experiencia de usuario.</b>
+  <br>
+  <i>Siempre aprendiendo y buscando nuevos desafíos tecnológicos.</i>
+</p>
 
 ---
 
-## 🚀 Proyectos en los que estoy trabajando
-### **1. Plataforma para inmobiliarias**
-- **Web catálogo**: Un sitio para mostrar propiedades de manera profesional y atractiva.
-- **Administrador web**: Una herramienta backend para gestionar propiedades, usuarios y datos de manera eficiente.
+## 🛠️ Tecnologías & Herramientas
 
-### **2. CRM corporativo**
-- **Empresa actual**: Desarrollo de un CRM avanzado, implementando tecnologías modernas y soluciones personalizadas para la gestión de contactos y procesos empresariales.
+### 🔹 **Con mayor experiencia**  
+✅ **Frontend**: JavaScript, Vue.js, Vuetify  
+✅ **Backend**: Node.js, MySQL  
 
----
+### 🔹 **Con experiencia básica**  
+✅ Java  
+✅ Firebase, Supabase  
 
-## 🌱 Actualmente estoy
-- Profundizando mis conocimientos en **React**, **Next.js**, **Nuxt 3** y **Tailwind CSS**.
-- Aprendiendo más sobre **arquitectura de aplicaciones web** y **mejoras en UI/UX**.
-- Mejorando mis habilidades en la gestión de **aplicaciones en la nube**.
+### 🔹 **Explorando y aprendiendo**  
+✅ ⚛️ React, Next.js  
+✅ 🏗️ Nuxt 3  
+✅ 🎨 Tailwind CSS  
 
----
-
-## 💡 Sobre mí
-- Me apasiona el desarrollo de aplicaciones web que ofrezcan una experiencia única y simplifiquen la vida de las personas.
-- Disfruto aprender nuevas tecnologías y aplicarlas en proyectos reales.
-- Creo en el poder de la colaboración y el aprendizaje continuo para crecer tanto profesional como personalmente.
+### 🔹 **Cloud Computing**  
+✅ 🌍 Amazon Web Services (AWS)  
 
 ---
 
-## 📫 Contáctame
-- **Correo**: [enzozopeli@gmail.com](mailto:enzozopeli@gmail.com)
-- **LinkedIn**: [linkedin.com/in/enzo-pelizzari-622876145](linkedin.com/in/enzo-pelizzari-622876145)
-- **GitHub**: ¡No olvides explorar mis repositorios!
+## 🚀 Proyectos Destacados
+
+### 🏡 Plataforma para inmobiliarias  
+🔹 **Web catálogo** → Sitio profesional para mostrar propiedades.  
+🔹 **Administrador web** → Backend para gestionar propiedades, usuarios y datos.  
+
+### 🏢 CRM Corporativo  
+🔹 Desarrollo de un CRM avanzado con tecnologías modernas y soluciones personalizadas.  
 
 ---
 
-_✨ "Con grandes poderes vienen grandes responsabilidades."_  
+## 🌱 Actualmente Estoy...  
+📌 Profundizando en **React**, **Next.js**, **Nuxt 3** y **Tailwind CSS**.  
+📌 Aprendiendo sobre **arquitectura de aplicaciones web** y **UI/UX**.  
+📌 Mejorando mis habilidades en **aplicaciones en la nube**.  
 
+---
+
+## 💡 Sobre Mí  
+💻 **Apasionado** por crear aplicaciones con impacto.  
+🎯 Siempre en busca de **nuevos desafíos tecnológicos**.  
+🤝 Firme creyente en el **trabajo en equipo y el aprendizaje continuo**.  
+
+---
+
+<h2 align="center">📫 ¡Conectemos!</h2>
+
+<p align="center">
+  <a href="mailto:enzozopeli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/enzo-pelizzari-622876145">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/enzozopeli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+<h4 align="center"><i>✨ "Con grandes poderes vienen grandes responsabilidades." ✨</i></h4>
