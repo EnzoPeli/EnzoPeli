@@ -1,7 +1,11 @@
-<h1 align="center">🚀 Enzo Pelizzari | Desarrollador Web</h1>
+<h1>🚀 Enzo Pelizzari | Desarrollador Web</h1>
 
-<p align="center">
-  <b>Apasionado por el desarrollo de aplicaciones modernas, escalables y con una gran experiencia de usuario.</b>
+<p>
+  <b>
+  Me gusta construir soluciones que realmente hagan la diferencia.  
+  No se trata solo de código, sino de entender problemas, optimizar procesos  
+  y darle a cada proyecto la mejor versión posible de lo que puede ser.  
+</b>
   <br>
   <i>Siempre aprendiendo y buscando nuevos desafíos tecnológicos.</i>
 </p>
@@ -15,7 +19,7 @@
 ✅ **Backend**: Node.js, MySQL  
 
 ### 🔹 **Con experiencia básica**  
-✅ Java  
+✅ Java, Python, Asterisk  
 ✅ Firebase, Supabase  
 
 ### 🔹 **Explorando y aprendiendo**  
